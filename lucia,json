@@ -30,14 +30,14 @@
     },
     {
       "name": "D-DarknessLocker",
-      "hash": "BC034F4F341DF1BA5020F52B92D1FCA8EE2183A02B1DC5478DFCB5A9D98B2FB6",
+      "hash": "D9F4FA8EFD85C71AE7A3C2D1E85FD0F5EE115A16AEE57B7F39F0B5436646D577",
       "link": "file:///C:/Tools/DarknessLockerBuilder.exe",
       "running": "true",
       "msgupdate": "New update available"
     },
     {
       "name": "D-DarknessMbr",
-      "hash": "7649EEF2DC2421E1868C2C156765AF88458AFFE44891E3FC2446801DD69D403B",
+      "hash": "C9FA16D84A7D112E1330AADA38FCEF1FEA6A38A7B2E73FC310967A37B78660EA",
       "link": "file:///C:/Tools/DarknessMbrBuilder.exe",
       "running": "true",
       "msgupdate": "New update available"
