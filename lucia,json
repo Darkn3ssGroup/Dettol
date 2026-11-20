@@ -37,8 +37,8 @@
     },
     {
       "name": "D-DarknessMbr",
-      "hash": "",
-      "link": "",
+      "hash": "5F22ABBBDE31357AD84BC83D41697DCCFA75820A70922259EA10227461CF0D25",
+      "link": "http://127.0.0.1:2222",
       "running": "true",
       "msgupdate": "New update available"
     },
