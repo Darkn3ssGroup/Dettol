@@ -1,1 +1,109 @@
-no
+{
+  "tools": [
+    {
+      "name": "D-DarknessRAT",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessGrabber",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessTunnels",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessBinder",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessLocker",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessMbr",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessRootkit",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessBootkit",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessInjector",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessServices",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessTrap",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessImageEmbedder",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessDownloader",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessAnalyser",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    },
+    {
+      "name": "D-DarknessDefender",
+      "hash": "",
+      "link": "",
+      "running": "true",
+      "msgupdate": "New update available"
+    }
+  ]
+}
