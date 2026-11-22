@@ -50,13 +50,6 @@
       "msgupdate": "New update available"
     },
     {
-      "name": "D-DarknessBootkit",
-      "hash": "",
-      "link": "",
-      "running": "true",
-      "msgupdate": "New update available"
-    },
-    {
       "name": "D-DarknessInjector",
       "hash": "",
       "link": "",
@@ -78,13 +71,6 @@
       "msgupdate": "New update available"
     },
     {
-      "name": "D-DarknessImageEmbedder",
-      "hash": "",
-      "link": "",
-      "running": "true",
-      "msgupdate": "New update available"
-    },
-    {
       "name": "D-DarknessDownloader",
       "hash": "C7F9997DEF6EBB56B3AC670396B624553CA142ACD2A84C546A79D2EC8B3C58A8",
       "link": "file:///C:/Tools/DarknessDownloader.exe",
@@ -95,13 +81,6 @@
       "name": "D-DarknessAnalyser",
       "hash": "FA7DD35309A04724B467AC4F09227AC84FF65EE19B6456E554175F4CC81CA778",
       "link": "file:///C:/Tools/DarknessAnalyser.exe",
-      "running": "true",
-      "msgupdate": "New update available"
-    },
-    {
-      "name": "D-DarknessDefender",
-      "hash": "",
-      "link": "",
       "running": "true",
       "msgupdate": "New update available"
     }
