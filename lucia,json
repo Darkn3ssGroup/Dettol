@@ -86,15 +86,15 @@
     },
     {
       "name": "D-DarknessDownloader",
-      "hash": "815F25D17D87D171C68FCAB2FF34E08452BED866E469AC6D0C5D1B7A02470F89",
+      "hash": "C7F9997DEF6EBB56B3AC670396B624553CA142ACD2A84C546A79D2EC8B3C58A8",
       "link": "file:///C:/Tools/DarknessDownloader.exe",
       "running": "true",
       "msgupdate": "New update available"
     },
     {
       "name": "D-DarknessAnalyser",
-      "hash": "",
-      "link": "",
+      "hash": "C0813CA8361EE309F75ED8E16C020BA17445DE99BAC09D75B84FBFE30DE4156F",
+      "link": "file:///C:/Tools/DarknessAnalyzer.exe",
       "running": "true",
       "msgupdate": "New update available"
     },
