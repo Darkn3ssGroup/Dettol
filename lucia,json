@@ -44,8 +44,8 @@
     },
     {
       "name": "D-DarknessRootkit",
-      "hash": "",
-      "link": "",
+      "hash": "F9CDAAB11C3E36F7E7532DD8C3946E9CAA371C9123CA9E1F988328CCD7085AD5",
+      "link": "file:///C:/Tools/DarknessRootkit.exe",
       "running": "true",
       "msgupdate": "New update available"
     },
