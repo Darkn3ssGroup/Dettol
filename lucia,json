@@ -86,8 +86,8 @@
     },
     {
       "name": "D-DarknessDownloader",
-      "hash": "",
-      "link": "",
+      "hash": "8d2477462aa0cbf22a174294d201909ba62ba705b57d8b634808e52434177626",
+      "link": "file:///C:/Tools/DarknessDownloader.exe",
       "running": "true",
       "msgupdate": "New update available"
     },
