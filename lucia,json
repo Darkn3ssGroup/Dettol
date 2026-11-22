@@ -9,7 +9,7 @@
     },
     {
       "name": "D-DarknessGrabber",
-      "hash": "",
+      "hash": "72BF63C1B2A32CC85B9CBD251908CFDF09312C51232EE4C923BB7DEE233ED0AE",
       "link": "",
       "running": "true",
       "msgupdate": "New update available"
@@ -17,7 +17,7 @@
     {
       "name": "D-DarknessTunnels",
       "hash": "",
-      "link": "",
+      "link": "file:///C:/Tools/DarknessGrabber.exe",
       "running": "true",
       "msgupdate": "New update available"
     },
