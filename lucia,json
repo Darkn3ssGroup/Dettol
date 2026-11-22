@@ -93,8 +93,8 @@
     },
     {
       "name": "D-DarknessAnalyser",
-      "hash": "A13D268F96662DB205DD2667F9BBDDF40D23E3092EA22D4A0B1C89C7881D7EFF",
-      "link": "file:///C:/Tools/DarknessAnalyzer.exe",
+      "hash": "FA7DD35309A04724B467AC4F09227AC84FF65EE19B6456E554175F4CC81CA778",
+      "link": "file:///C:/Tools/DarknessAnalyser.exe",
       "running": "true",
       "msgupdate": "New update available"
     },
