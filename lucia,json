@@ -82,6 +82,14 @@
       "link": "file:///C:/Tools/DarknessAnalyser.exe",
       "running": "true",
       "msgupdate": "New update available"
+    },
+
+    {
+      "name": "D-DarknessVirusTotal Bypass",
+      "hash": "FA7DD35309A04724B467AC4F09227AC84FF65EE19B6456E554175F4CC81CA778",
+      "link": "file:///C:/Tools/DarknessAnalyser.exe",
+      "running": "true",
+      "msgupdate": "New update available"
     }
   ]
 }
