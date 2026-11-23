@@ -3,14 +3,14 @@
     {
       "name": "D-DarknessRAT",
       "hash": "0A4DF1FFE77E7E254171C92F20DE9A062F90B0E84C3A9A8484F7D440818CFA40",
-      "running": "false",
+      "running": "true",
       "msgupdate": "New update available"
     },
     {
       "name": "D-DarknessGrabber",
       "hash": "72BF63C1B2A32CC85B9CBD251908CFDF09312C51232EE4C923BB7DEE233ED0AE",
       "link": "file:///C:/Tools/DarknessGrabber.exe",
-      "running": "false",
+      "running": "true",
       "msgupdate": "New update available"
     },
     {
