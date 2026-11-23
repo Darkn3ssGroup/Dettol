@@ -3,8 +3,7 @@
     {
       "name": "D-DarknessRAT",
       "hash": "0A4DF1FFE77E7E254171C92F20DE9A062F90B0E84C3A9A8484F7D440818CFA40",
-      "link": "file:///C:/Tools/DarknessRAT.exe",
-      "running": "true",
+      "running": "false",
       "msgupdate": "New update available"
     },
     {
